@@ -1,0 +1,61 @@
+.ant-menu-dark.ant-menu-horizontal > .ant-menu-item:hover{
+background: #7E7C7C;
+}
+
+.ant-menu-dark .ant-menu-item, .ant-menu-dark .ant-menu-item-group-title, .ant-menu-dark .ant-menu-item > a, .ant-menu-dark .ant-menu-item > span > a {
+    color: white;
+}
+
+.link-menu{
+    color: white;
+    font-weight: bold;
+}
+.ant-menu-dark.ant-menu-horizontal {
+    border-bottom: 0;
+    width: 100%;
+    height: 100%;
+    background: #AF373E;
+
+}
+
+#logo{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    background: white;
+    height: 58px;
+    border: 2px solid #AF373E;
+}
+
+.col-menu-2{    
+    height: 58px;
+
+}
+
+.logo-item > h1{
+    color: white; 
+    padding: 5px;
+    font-size: 27px;
+}
+.moeda{
+    display: flex;
+    color: white;
+    font-size: 18px;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background: #AF373E;
+    height: 58px;
+}
+
+.row-menu{
+    height: 58px;
+    width: 100%;
+}
+
+.logo-item{
+    display: flex;
+    justify-content: center;
+}
+
